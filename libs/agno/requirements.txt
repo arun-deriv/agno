@@ -30,7 +30,7 @@ httpx==0.28.1
     # via agno (libs/agno/pyproject.toml)
 hyperframe==6.1.0
     # via h2
-idna==3.10
+idna==3.15
     # via
     #   anyio
     #   httpx
@@ -46,15 +46,15 @@ pydantic==2.13.4
     #   pydantic-settings
 pydantic-core==2.46.4
     # via pydantic
-pydantic-settings==2.14.1
+pydantic-settings==2.14.2
     # via agno (libs/agno/pyproject.toml)
 pygments==2.18.0
     # via rich
-python-dotenv==1.0.1
+python-dotenv==1.2.2
     # via
     #   agno (libs/agno/pyproject.toml)
     #   pydantic-settings
-python-multipart==0.0.20
+python-multipart==0.0.31
     # via agno (libs/agno/pyproject.toml)
 pyyaml==6.0.2
     # via agno (libs/agno/pyproject.toml)
